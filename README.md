@@ -202,7 +202,7 @@ App name đã được thay đổi!
   
   ![7](https://github.com/vanle57/flutter-dart-define/blob/main/images/7.png)
   
-  ![7](https://github.com/vanle57/flutter-dart-define/blob/main/images/8.png)
+  ![8](https://github.com/vanle57/flutter-dart-define/blob/main/images/8.png)
   
   - Tiếp theo, chúng ta sẽ viết đoạn code thực hiện việc đọc các biến dart define và ghi vào file `Define.xcconfig`.  Đoạn code này sẽ được biên dịch trước khi XCode build app. Tương tự như Android là vẫn phải giải mã base64 nha:
   
@@ -274,11 +274,22 @@ Nếu các bạn chưa biết về Customize Debug and Run của Visual Studio C
 
 - Run lên và xem kết quả thôi! Bạn có thể chọn flavor nào để build tuỳ thích nhé!
 
-![13](https://github.com/vanle57/flutter-dart-define/blob/main/images/14.png)
+![14](https://github.com/vanle57/flutter-dart-define/blob/main/images/14.png)
 
 **Kết quả:** 
 
 ![15](https://github.com/vanle57/flutter-dart-define/blob/main/images/15.png)
+<table width="100%">
+  <tr>
+    <th>dev</th>
+    <th>staging</th>
+    <th>product</th>
+  <tr>
+  <td width="33%"><img src="https://github.com/vanle57/flutter-dart-define/blob/main/images/16.png"></td>
+  <td width="33%"><img src="https://github.com/vanle57/flutter-dart-define/blob/main/images/17.png"></td>
+  <td width="33%"><img src="https://github.com/vanle57/flutter-dart-define/blob/main/images/18.png"></td>
+  </tr>
+</table>
 
 #### [Demo source code](https://github.com/vanle57/flutter-dart-define/tree/main/demo%20source%20code/demo_dart_define)
 
