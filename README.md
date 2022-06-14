@@ -28,7 +28,7 @@ Các bạn chắc hẳn sẽ cảm thấy việc config Flutter Flavor quá ph�
 
 **Dart defines** là các biến được tạo ra trong khoảng thời gian biên dịch chương trình (_compile-time variables_). Nếu bạn đang tìm kiếm những biến tương tự biến môi trường (_environtment variables_) thì Dart defines là những gì bạn cần! Và chúng được tạo ra bởi `--dart-define`.
 
-`--dart-define` là 1 tham số để pass vào câu lệnh `flutter build` hoặc `flutter run`. Nó sẽ giúp chúng ta chuyển tiếp các biến môi trường. Điều đó có nghĩa là bạn có thể custom code của mình với bất kỳ giá trị nào bạn truyền qua tham số này. Quá là hay phải không nào? Điều này khiến mình ngay lập tức nghĩ đến việc define các biến khác nhau cho flavor thay vì config khùng điên như ở [bài trước](https://github.com/vanle57/flutter-flavor) của mình. 
+Vậy `--dart-define` là gì? Nó là một tham số để pass vào câu lệnh `flutter build` hoặc `flutter run`. Nó sẽ giúp chúng ta chuyển tiếp các biến môi trường. Điều đó có nghĩa là bạn có thể custom code của mình với bất kỳ giá trị nào bạn truyền qua tham số này. Quá là hay phải không nào? Điều này khiến mình ngay lập tức nghĩ đến việc define các biến khác nhau cho flavor thay vì config khùng điên như ở [bài trước](https://github.com/vanle57/flutter-flavor) của mình. 
 
 ## 4. Cú pháp
 
