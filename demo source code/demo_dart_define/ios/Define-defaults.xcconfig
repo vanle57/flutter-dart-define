@@ -1,0 +1,12 @@
+//
+//  Define-defaults.xcconfig
+//  Runner
+//
+//  Created by Van Le on 13/06/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME=awesomeApp1
+APP_SUFFIX=
